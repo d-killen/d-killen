@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an engineering professional with more than 12 years of experience in design and development looking to transition to a Data Engineering role. Most recently managed at a strategic level to grow an engineering startup including responsibility for planning all technology development. Has led teams of engineers to deliver complex designs including developing and managing the testing required for validation
+
 <!--
 **d-killen/d-killen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
